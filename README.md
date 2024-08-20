@@ -9,4 +9,4 @@
 
 ## About me
 
-Hi there 👋. I am Varp0s, working in the field of cybersecurity and developing applications in this domain. Additionally, I enjoy giving back to the community by writing blog posts, giving talks, and sharing my ideas as open source. If I am not working on an application or library, it is likely that I am involved in significant projects. Stay tuned. "We are quietly on duty."
+I am Varp0s, working in the field of cybersecurity and developing applications in this domain. Additionally, I enjoy giving back to the community by writing blog posts, giving talks, and sharing my ideas as open source. If I am not working on an application or library, it is likely that I am involved in significant projects. Stay tuned. "We are quietly on duty."
